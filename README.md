@@ -2,7 +2,6 @@
 
 ## Loading new news from server while caching top 30 image from local cache
 ![Loading new stories with cache](https://user-images.githubusercontent.com/18536377/158027002-25f97e07-7584-4411-bdff-b0b928886b3c.png)
-
 ![Loading of new news completed](https://user-images.githubusercontent.com/18536377/158027126-133b87ec-eb10-483f-86f8-6dfeec021cc8.png)
 
 ## After loading of new news completed
