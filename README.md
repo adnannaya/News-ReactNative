@@ -15,5 +15,5 @@
 ![Bookmark deselected on list page](https://user-images.githubusercontent.com/18536377/158027205-2e85e07d-65ff-4526-874e-d4f7fda81286.png)
 
 ## Bookmark cached
-![Bookmark on list page](https://user-images.githubusercontent.com/18536377/158027519-c30c6693-3c58-42d4-b7c2-32b9d8b7f5fe.png)
-![While loading bookmark also cached](https://user-images.githubusercontent.com/18536377/158027526-6415c2f2-c3fa-478c-8109-dd79ce4bd5b8.png)
+![Screenshot_1647104804](https://user-images.githubusercontent.com/18536377/158027601-816d3afc-c969-4e0f-8f5f-e6bce4912ab2.png)
+![Screenshot_1647104807](https://user-images.githubusercontent.com/18536377/158027606-1e515a69-5062-4f94-a7ae-99850c8a4c4c.png)
