@@ -1,7 +1,8 @@
 # News-ReactNative
 
 ## Loading new news from server while caching top 30 image from local cache
-![Loading new stories with cache](https://user-images.githubusercontent.com/18536377/158026958-ee2e3b89-b8a9-4ebc-95e2-ff13d6f49bd7.png)
+![Loading new stories with cache](https://user-images.githubusercontent.com/18536377/158027002-25f97e07-7584-4411-bdff-b0b928886b3c.png)
+
 
 
 ## After loading of new news completed
