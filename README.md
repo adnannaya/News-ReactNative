@@ -4,15 +4,8 @@
 ![Loading new stories with cache](https://user-images.githubusercontent.com/18536377/158027002-25f97e07-7584-4411-bdff-b0b928886b3c.png)
 ![Loading of new news completed](https://user-images.githubusercontent.com/18536377/158027126-133b87ec-eb10-483f-86f8-6dfeec021cc8.png)
 
-## After loading of new news completed
-![Loading of new news completed](https://user-images.githubusercontent.com/18536377/158027126-133b87ec-eb10-483f-86f8-6dfeec021cc8.png)
-
-
 ## Bookmark news on list page
 ![Bookmark news on list page](https://user-images.githubusercontent.com/18536377/158027141-60df0562-0f20-4399-8db5-6f01f8b0b443.png)
-
-
-## News content loading with progress bar
 ![News Content with progress](https://user-images.githubusercontent.com/18536377/158027151-806eaeef-800e-44a3-b3f6-0f1e276ed2bf.png)
 
 
