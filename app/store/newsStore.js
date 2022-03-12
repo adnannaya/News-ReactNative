@@ -1,11 +1,11 @@
-import { action, computed, observable, observe } from "mobx";
+import { action, computed, makeObservable, observable } from "mobx";
 
 class News{
     newsList = [];
 
     constructor(){
-        observable(this, {
-            newsList: observe,
+        makeObservable(this, {
+            newsList: observable,
             markBookmark: action,
             unMarkBookmark: action,
             addNews: action,
@@ -15,18 +15,25 @@ class News{
     markBookmark(id){
         let newsIndex = this.newsList.findIndex((n) => n.id === id);
         if(newsIndex >= 0){
-            console.log("Record found for markBookmark")
-            this.newsList[newsIndex].is_bookmarked = true
-            this.newsList[newsIndex].title = "Adnan"
+            this.newsList[newsIndex].is_bookmarked = false
+            this.newsList = [...this.newsList];
+
+            return this.newsList[newsIndex]
+        }
+        else{
+            return null;
         }
     }
 
     unMarkBookmark(id){
         let newsIndex = this.newsList.findIndex((n) => n.id === id);
         if(newsIndex >= 0){
-            console.log("Record found for unMarkBookmark")
-            this.newsList[newsIndex].is_bookmarked = false
-            this.newsList[newsIndex].title = "Fatema"
+            this.newsList[newsIndex].is_bookmarked = true;
+            this.newsList = [...this.newsList]
+            return this.newsList[newsIndex]
+        }
+        else{
+            return null;
         }
     }
 
