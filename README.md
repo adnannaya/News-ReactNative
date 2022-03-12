@@ -14,3 +14,6 @@
 ![Bookmark deselected on content page](https://user-images.githubusercontent.com/18536377/158027172-27a77b0c-4e72-430b-aa1d-c0240041ce0c.png)
 ![Bookmark deselected on list page](https://user-images.githubusercontent.com/18536377/158027205-2e85e07d-65ff-4526-874e-d4f7fda81286.png)
 
+## Bookmark cached
+![Bookmark on list page](https://user-images.githubusercontent.com/18536377/158027519-c30c6693-3c58-42d4-b7c2-32b9d8b7f5fe.png)
+![While loading bookmark also cached](https://user-images.githubusercontent.com/18536377/158027526-6415c2f2-c3fa-478c-8109-dd79ce4bd5b8.png)
