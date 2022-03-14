@@ -3,7 +3,7 @@
 # Build
 ### Use NodeJS version 16
 ### Run npm install
-### Run nnpm start
+### Run npm start
 
 ## Loading new news from server while displaying top 30 news from local cache
 
