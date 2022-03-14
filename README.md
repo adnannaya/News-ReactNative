@@ -1,5 +1,10 @@
 # News-ReactNative
 
+# Build
+## Use NodeJS version 16.*.*
+## Run npm install
+## Run nnpm start
+
 ## Loading new news from server while displaying top 30 news from local cache
 
 ![Loading new stories with cache](https://user-images.githubusercontent.com/18536377/158027002-25f97e07-7584-4411-bdff-b0b928886b3c.png)
