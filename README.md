@@ -1,7 +1,7 @@
 # News-ReactNative
 
 # Build
-### Use NodeJS version 16.*.*
+### Use NodeJS version 16
 ### Run npm install
 ### Run nnpm start
 
